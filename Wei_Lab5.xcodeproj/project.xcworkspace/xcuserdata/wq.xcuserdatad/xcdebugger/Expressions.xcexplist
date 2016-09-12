@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[gameViewController viewDidLoad]:gameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PlaceShipsViewController pressDone:]:PlaceShipsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GridCell pressButton]:GridCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Grid randomPressGridCell]:Grid.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GridCell checkSunkShips]:GridCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PlaceShipsViewController prepareForSegue:sender:]:PlaceShipsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Grid createGridCells]:Grid.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GridCell updateHitShips]:GridCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Grid aiPressGridCell]:Grid.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sum">
+            </PersistentString>
+            <PersistentString
+               value = "shipsIndex[i][j] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[gameViewController initializeGrids]:gameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[gameViewController startOnePlayerGame]:gameViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
