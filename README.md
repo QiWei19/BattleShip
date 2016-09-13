@@ -1,5 +1,5 @@
 # BattleShip
-A classic game - BattleShip!
+A classic game - BattleShip with sound effects.
 
 Two game modes: one-player and two-player.
 
